@@ -9,9 +9,9 @@
 
 A ideia da CitizenTech **Gota Inteligente** foi definida em equipe, assim como o público do painel (Sindicato Rural e Prefeitura), as funcionalidades e as regras de priorização.
 
-O desenvolvimento do painel foi conduzido por **Pedro Paulo**, que transformou esses requisitos nos pedidos registrados abaixo, executou o painel conectado à API da Gota Inteligente, conferiu cada tela e fluxo (cadastro, agendamento, filtros e modo offline), identificou os problemas, pediu as correções e revisou o código antes de cada entrega.
+O código do painel foi escrito por **Pedro Paulo**, que também o executou conectado à API da Gota Inteligente, conferiu cada tela e fluxo (cadastro, agendamento, filtros e modo offline) e fez os testes.
 
-O Claude atuou como **copiloto**: gerou e revisou código a partir desses pedidos e ajudou na compilação, nos testes e na publicação no GitHub. Nenhum código foi entregue sem ser executado e revisado por Pedro Paulo.
+O Claude atuou como **revisor**: Pedro Paulo enviou o código já escrito, e a ferramenta revisou, apontou problemas e fez pequenas alterações, além de ajudar na publicação no GitHub. Todas as alterações foram conferidas por Pedro Paulo antes da entrega.
 
 Os prompts abaixo estão organizados por etapa e **redigidos de forma estruturada**. Cada um corresponde a um pedido realmente feito durante o desenvolvimento.
 
