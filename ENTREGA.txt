@@ -1,0 +1,12 @@
+GLOBAL SOLUTION 2026.2 - FIAP - C# SOFTWARE DEVELOPMENT
+CitizenTech: Gota Inteligente - Painel Regional de Estresse Hidrico (Windows Forms)
+Equipe: Gota Inteligente
+
+Repositorio: https://github.com/Pedro-Sabino/gota-inteligente-painel
+
+RM       | Nome completo
+RM559628 | Henrique Maciel Rodrigues
+RM560225 | Igor Pereira Nociti
+RM560527 | Joao Pedro Vieira de Moais
+RM560950 | Luigi Bonuccelli
+RM559578 | Pedro Paulo Sabino Botelho
