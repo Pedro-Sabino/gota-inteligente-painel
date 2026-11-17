@@ -7,9 +7,11 @@
 
 ## Como a IA foi usada
 
-A IA foi usada como **copiloto de desenvolvimento**. A equipe definiu a ideia da CitizenTech, o público do painel (Sindicato Rural e Prefeitura), as funcionalidades e as regras de priorização. A ferramenta gerou e revisou código a partir desses requisitos e ajudou a automatizar a compilação, a execução de testes e a publicação no GitHub.
+A ideia da CitizenTech **Gota Inteligente** foi definida em equipe, assim como o público do painel (Sindicato Rural e Prefeitura), as funcionalidades e as regras de priorização.
 
-A equipe executou o painel conectado à API da Gota Inteligente, conferiu cada tela e fluxo (cadastro, agendamento, filtros e modo offline), pediu correções e ajustes, e revisou o código entregue. Os commits feitos com a ferramenta trazem a marcação `Co-Authored-By: Claude`.
+O desenvolvimento do painel foi conduzido por **Pedro Paulo**, que transformou esses requisitos nos pedidos registrados abaixo, executou o painel conectado à API da Gota Inteligente, conferiu cada tela e fluxo (cadastro, agendamento, filtros e modo offline), identificou os problemas, pediu as correções e revisou o código antes de cada entrega.
+
+O Claude atuou como **copiloto**: gerou e revisou código a partir desses pedidos e ajudou na compilação, nos testes e na publicação no GitHub. Nenhum código foi entregue sem ser executado e revisado por Pedro Paulo.
 
 Os prompts abaixo estão organizados por etapa e **redigidos de forma estruturada**. Cada um corresponde a um pedido realmente feito durante o desenvolvimento.
 
